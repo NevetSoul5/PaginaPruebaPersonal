@@ -1,0 +1,14 @@
+{
+  "name": "darkmasters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/estilos.css -w"
+  },
+  "author": "StevenThEOnLy1",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
